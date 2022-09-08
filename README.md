@@ -3,7 +3,7 @@ Welcome to my GitHub!
 
 A video demonstration of the program may be found at: https://youtu.be/b3sXL92dE-U
 
-Note: Download all fiels in UI_final, then change the corresponding file path in the main code Mainnew.py to your own file path!
+Download all the attachments in UI_final, execute the main program Mainnew.py, and modify the file path name to run the program
 
 <!-- 
   <<< Author notes: Step 1 >>> 
