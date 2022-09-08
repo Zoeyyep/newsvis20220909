@@ -3,7 +3,7 @@
 
 A video demonstration of the program may be found at: https://youtu.be/b3sXL92dE-U
 
-**Note: Download the data allsample.csv, then change the corresponding file path in the main code Mainnew.py to your own file path! **
+**Note: Download all fiels in UI_final, then change the corresponding file path in the main code Mainnew.py to your own file path! **
 
 <!-- 
   <<< Author notes: Step 1 >>> 
@@ -37,6 +37,4 @@ The main concept of data processing is to read text data from a csv file, calcul
 The system includes four levels in the visualization of data text generation, firstly, the data itself, which conveys the basic information of news, such as source, time, and content, in the form of a table; secondly, the high-frequency information appearing in the news content is explored for sentiment analysis display, which is shown in the form of a tree diagram and a table. The third layer is a comprehensive display of sentiment analysis of news content, including bar stacked graphs and parallel coordinate graphs, and increases interactivity in the form of pop-up windows, which can facilitate readers' observation of potential trend changes in attitudes reported by news sources. Finally, the visualized data can be refined and enhanced by exploring word clouds for the high-frequency information mentioned in the second layer. More details in UI_final file.
 
   
-  
-  
-  
+ 
