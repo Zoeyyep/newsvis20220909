@@ -1,9 +1,9 @@
 # TEXT VISUALIZATION OF NEWS ARTICLES
-**Welcome to my GitHub! **
+Welcome to my GitHub! 
 
 A video demonstration of the program may be found at: https://youtu.be/b3sXL92dE-U
 
-**Note: Download all fiels in UI_final, then change the corresponding file path in the main code Mainnew.py to your own file path! **
+Note: Download all fiels in UI_final, then change the corresponding file path in the main code Mainnew.py to your own file path!
 
 <!-- 
   <<< Author notes: Step 1 >>> 
